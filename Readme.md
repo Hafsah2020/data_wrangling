@@ -1,4 +1,4 @@
-⁶### Data wrangling by Hafsah Anibaba
+### Data wrangling by Hafsah Anibaba
 
 - This project is to improve my data wrangling skill. It involves:-
   -  Data Gathering: I gathered data from 3 sources:-
